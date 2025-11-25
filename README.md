@@ -167,7 +167,7 @@ Install with:
     Complete data pipeline, training code, and evaluation.
 
 -   **papers/JPT_2\_LAKSHMINARAYANA+KODAVALI_6\_1968.pdf**\
-[📄 Download the referenced paper](papers/JPT_2_LAKSHMINARAYANA+KODAVALI_6_1968.pdf)
+[📄 Download the referenced paper](papers/JPT_2_LAKSHMINARAYANA+KODAVALI_6_1968.pdf)\
     Academic reference paper used for theoretical background.
 
 ------------------------------------------------------------------------
