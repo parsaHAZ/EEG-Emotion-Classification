@@ -26,14 +26,14 @@ recordings.**
 
 The project follows a research-grade EEG ML workflow:
 
-1.  Load EEG dataset\
-2.  Clean and standardize signals\
-3.  Slice signals into windows/epochs\
-4.  Normalize numerical features\
-5.  Encode emotion/stress labels\
-6.  Split into training & testing sets\
-7.  Train deep learning models (LSTM / CNN / DNN)\
-8.  Evaluate performance\
+1.  Load EEG dataset
+2.  Clean and standardize signals
+3.  Slice signals into windows/epochs
+4.  Normalize numerical features
+5.  Encode emotion/stress labels
+6.  Split into training & testing sets
+7.  Train deep learning models (LSTM / CNN /DNN)
+8.  Evaluate performance
 9.  Visualize training and results
 
 ------------------------------------------------------------------------
@@ -49,9 +49,9 @@ TP10) along with labels representing emotional or stress states.
 
 ### ✔ 2. Signal Preprocessing
 
-Includes: - Filtering & smoothing\
-- Normalization\
-- Artifact reduction\
+Includes: - Filtering & smoothing
+- Normalization
+- Artifact reduction
 - Signal length standardization
 
 Ensures high-quality input for the neural network.
