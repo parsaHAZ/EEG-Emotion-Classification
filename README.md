@@ -88,11 +88,11 @@ Uses `train_test_split()` to ensure fair model evaluation.
 
 LSTMs are ideal for EEG due to temporal memory and sequence modeling.
 
-Model components include: - LSTM layers\
-- Fully connected layers\
-- Softmax output\
-- Dropout\
-- Adam optimizer + Cross-entropy loss\
+Model components include: - LSTM layers
+- Fully connected layers
+- Softmax output
+- Dropout
+- Adam optimizer + Cross-entropy loss
 - EarlyStopping
 
 CNN and DNN options may also be available.
@@ -101,28 +101,28 @@ CNN and DNN options may also be available.
 
 # 📊 Training Process
 
-Training includes: - Multi-epoch sequence learning\
-- Automatic stopping when performance stagnates\
-- Accuracy & loss tracking\
+Training includes: - Multi-epoch sequence learning
+- Automatic stopping when performance stagnates
+- Accuracy & loss tracking
 - Optional learning-rate scheduling
 
 ------------------------------------------------------------------------
 
 # 🎯 Evaluation
 
-The project produces the following metrics: - Accuracy\
-- Precision\
-- Recall\
-- F1-score\
-- Confusion Matrix\
+The project produces the following metrics: - Accuracy
+- Precision
+- Recall
+- F1-score
+- Confusion Matrix
 - Full Classification Report
 
 ------------------------------------------------------------------------
 
 # 📈 Visualizations
 
-Plots include: - Accuracy vs. Epoch\
-- Loss vs. Epoch\
+Plots include: - Accuracy vs. Epoch
+- Loss vs. Epoch
 - Optional: EEG signal previews
 
 Helpful for diagnosing overfitting or training instability.
@@ -147,15 +147,15 @@ Install with:
 
 # ▶️ How to Run
 
-1.  Install dependencies\
+1.  Install dependencies
 
 2.  Open the notebook:
 
         jupyter notebook "Bachelor's_Project.ipynb"
 
-3.  Run all cells\
+3.  Run all cells
 
-4.  View generated metrics and plots\
+4.  View generated metrics and plots
 
 5.  Tune model parameters if desired
 
