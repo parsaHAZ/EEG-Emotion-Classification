@@ -1,0 +1,67 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.env/
+.env*/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ========================
+# Data & models
+# ========================
+# Raw or processed datasets
+*.csv
+*.tsv
+*.xlsx
+*.edf
+data/
+datasets/
+raw_data/
+processed_data/
+
+# Model weights
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+checkpoints/
+models/
+
+# TensorBoard logs
+logs/
+runs/
+
+# ========================
+# OS / Editor files
+# ========================
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# ========================
+# Environment files
+# ========================
+*.log
+*.tmp
+*.bak
+
+# ========================
+# Output files
+# ========================
+# (DO NOT ignore plots — keep PNG, JPG, PDF)
+# If you still want to keep an output directory ignored, use this:
+# outputs/
